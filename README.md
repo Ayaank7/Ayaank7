@@ -89,5 +89,6 @@ Thanks for visiting my profile!
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayaank7)
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayaank7&show_icons=true)
+![Your GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ayaank7&show_icons=true&locale=en&layout=compact)
 
 
